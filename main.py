@@ -6,7 +6,7 @@ def main():
     """
     total = 0
     i=0
-    while(i<0):
+    while(i<5):
         num=int(input('number'))
         total=total+num
         i=i+1
